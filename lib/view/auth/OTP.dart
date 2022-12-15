@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:libonapp/constants/constant.dart';
-import 'package:libonapp/view/bottomNav/bottomnav.dart';
 import 'package:pinput/pinput.dart';
+
+import '../bottomNavScreens/bottomnav.dart';
 
 class OTP extends StatelessWidget {
   const OTP({Key? key}) : super(key: key);

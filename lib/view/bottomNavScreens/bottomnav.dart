@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:libonapp/constants/constant.dart';
-import 'package:libonapp/view/bottomNav/contacts.dart';
-import 'package:libonapp/view/bottomNav/dialpad.dart';
-import 'package:libonapp/view/bottomNav/homepage.dart';
-import 'package:libonapp/view/bottomNav/profilepage.dart';
-import 'package:libonapp/view/bottomNav/sms.dart';
+import 'package:libonapp/view/bottomNavScreens/profilepage.dart';
+import 'package:libonapp/view/bottomNavScreens/sms.dart';
+
+
+import 'contacts.dart';
+import 'dialpad.dart';
+import 'homepage.dart';
 class bottomnav extends StatefulWidget {
   const bottomnav({Key? key}) : super(key: key);
 

@@ -3,7 +3,6 @@ import 'package:flutter_contacts/flutter_contacts.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:libonapp/constants/constant.dart';
-import 'package:libonapp/view/bottomNav/homepage.dart';
 class contacts extends StatefulWidget {
   const contacts({Key? key}) : super(key: key);
 
